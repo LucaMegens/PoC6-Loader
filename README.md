@@ -1,1 +1,1 @@
-PoC6 Loader
+In deze Proof of concept wilde ik een simpele lading animatie maken.
